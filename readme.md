@@ -63,7 +63,7 @@ This project is still under gradual development, and you can find information ab
 8 | Shoot the Messenger | :warning:
 9 | Enemy Within | :warning:
 10 | Waking the Ancient | :warning:
-11 | The Crucible | :no_entry:
+11 | The Crucible | :warning:
 12 | Supreme | :no_entry:
 13 | Infested | :no_entry:
 14 | Hand of Darkness | :no_entry:
