@@ -14,9 +14,10 @@ Additionally, feedback is welcome. Please leave any bugs or balance problems in 
 
 This project is still under gradual development, and you can find information about what levels have been completed underneath.
 
-Key:
 :white_check_mark: = Complete and playable
-:warning: = Map complete, no gameplay
+
+:warning: = Map complete
+
  :no_entry: = No work done
 
 ### Wings of Liberty
@@ -48,3 +49,27 @@ Key:
 24 | Gates of Hell |  :warning:
 25 | Belly of the Beast |  :warning:
 26 | All-in |  :warning:
+
+### Heart of the Swarm
+#|Name|Status
+-|-|-
+1 | Lab Rat | :warning:
+2 | Back in the Saddle | :warning:
+3 | Rendezvous | :warning:
+4 | Domination | :warning:
+5 | Fire in the Sky | :warning:
+6 | Old Soldiers | :warning:
+7 | Harvest of Screams | :warning:
+8 | Shoot the Messenger | :warning:
+9 | Enemy Within | :warning:
+10 | Waking the Ancient | :warning:
+11 | The Crucible | :no_entry:
+12 | Supreme | :no_entry:
+13 | Infested | :no_entry:
+14 | Hand of Darkness | :no_entry:
+15 | Phantoms of the Void | :no_entry:
+16 | With Friends Like These | :no_entry:
+17 | Conviction | :no_entry:
+18 | Planetfall | :no_entry:
+19 | Death from Above | :no_entry:
+20 | The Reckoning | :no_entry:
