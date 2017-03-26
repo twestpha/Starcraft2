@@ -14,32 +14,37 @@ Additionally, feedback is welcome. Please leave any bugs or balance problems in 
 
 This project is still under gradual development, and you can find information about what levels have been completed underneath.
 
+Key:
+:white_check_mark: = Complete and playable
+:warning: = Map complete, no gameplay
+ :no_entry: = No work done
+
 ### Wings of Liberty
 #|Name|Status
 -|-|-
-1 | Liberation Day | Playable
-2 | The Outlaws | Playable
-3 | Zero Hour | Playable
-4 | The Evacuation | Playable
-5 | Smash and Grab | Playable
-6 | Devil’s Playground | Playable
-7 | Train Robbery | Playable
-8 | Outbreak | Playable
-9 | The Dig | Map Complete
-10 | Whispers of Doom | Map Complete
-11 | Sinister Turn | Map Complete
-12 | Echoes of Future | Map Complete
-13 | In Utter Darkness | Map Complete
-14 | Cutthroat | Map Complete
-15 | Welcome to the Jungle | Map Complete
-16 | Moebius Factor | Map Complete
-17 | Breakout | Map Complete
-18 | Engine of Destruction | Map Complete
-19 | Safe Haven | Map Complete
-20 | Supernova | Map Complete
-21 | Media Blitz | Map Complete
-22 | Piercing the Shroud | Map Complete
-23 | Maw of the Void | Map Complete
-24 | Gates of Hell | Map Complete
-25 | Belly of the Beast | Map Complete
-26 | All-in | Map Complete
+1 | Liberation Day |  :white_check_mark:
+2 | The Outlaws |  :white_check_mark:
+3 | Zero Hour |  :white_check_mark:
+4 | The Evacuation |  :white_check_mark:
+5 | Smash and Grab |  :white_check_mark:
+6 | Devil’s Playground |  :white_check_mark:
+7 | Train Robbery |  :white_check_mark:
+8 | Outbreak |  :white_check_mark:
+9 | The Dig |  :warning:
+10 | Whispers of Doom |  :warning:
+11 | Sinister Turn |  :warning:
+12 | Echoes of Future |  :warning:
+13 | In Utter Darkness |  :warning:
+14 | Cutthroat |  :warning:
+15 | Welcome to the Jungle |  :warning:
+16 | Moebius Factor |  :warning:
+17 | Breakout |  :warning:
+18 | Engine of Destruction |  :warning:
+19 | Safe Haven |  :warning:
+20 | Supernova |  :warning:
+21 | Media Blitz |  :warning:
+22 | Piercing the Shroud |  :warning:
+23 | Maw of the Void |  :warning:
+24 | Gates of Hell |  :warning:
+25 | Belly of the Beast |  :warning:
+26 | All-in |  :warning:
